@@ -1,3 +1,7 @@
 *~
 *.swp
-
+*.swo
+.vscode/
+*.exe
+*.obj
+*.tmp
